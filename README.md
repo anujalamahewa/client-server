@@ -1,2 +1,2 @@
 # clientserver
-A JAVA client server application
+A client server application written in JAVA.
